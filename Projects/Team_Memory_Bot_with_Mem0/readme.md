@@ -267,6 +267,11 @@ Contributions are welcome!
 4. Push to GitHub
 5. Open a Pull Request
 
+## 🤝 Contributors
+- RushiKesh Karwankar (https://www.linkedin.com/in/rushikesh-karwankar)
+- Yamini Manral (https://www.linkedin.com/in/yaminimanral/)
+
+
 ## 📄 License
 
 MIT License. See `LICENSE` file for details.
